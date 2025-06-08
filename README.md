@@ -1,6 +1,9 @@
 # datafun-06-eda
 Module 6: Perform Custom EDA
 
+https://github.com/mwaskom/seaborn-data/blob/master/titanic.csv 
+![image](https://github.com/user-attachments/assets/3fc2be56-b3a5-4514-8266-86e38204f0f4)
+
 ## 1. Virtual Environment Management (Windows PowerShell)
 
 1. **Create a virtual environment**
