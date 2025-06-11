@@ -69,8 +69,9 @@ git pull origin main
 git push
 ```
 
-##### Learn Jupyter and EDA
+#### Learn Jupyter and EDA
 <https://nwmissouri.instructure.com/courses/69377/assignments/1099285>
+
 
 ---
 
