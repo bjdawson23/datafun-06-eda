@@ -1,5 +1,6 @@
 # datafun-06-eda
 Module 6: Perform Custom EDA
+Branton Dawson
 
 ## Dataset is a sampling of passengers on the Titanic
 https://github.com/mwaskom/seaborn-data/blob/master/titanic.csv 
