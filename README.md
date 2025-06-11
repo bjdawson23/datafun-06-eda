@@ -69,6 +69,8 @@ git pull origin main
 git push
 ```
 
+<https://nwmissouri.instructure.com/courses/69377/assignments/1099285>
+
 ---
 
 ## P6 Jupyter Notebooks for EDA
