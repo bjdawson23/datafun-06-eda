@@ -105,22 +105,29 @@ git push
 
 ---
 
-### Notebook Checklist
+### Initial Storytelling and Presentation
 
-- [x] Exactly one Markdown title (with a single hash)
-- [x] Useful Markdown header cell with author, purpose, and optionally, the date
-- [x] Numbered second-level Markdown headings for organization
-- [x] Numbered sections with useful content for:
-    1. Imports
-    2. Load Data
-    3. Initial Data Inspection
-    4. Initial Descriptive Statistics
-    5. Initial Data Distribution for Numerical Columns
-    6. Initial Data Transformation and Feature Engineering
-    7. Initial Visualizations
-    8. Initial Storytelling and Presentation
-- [x] Commentary throughout that tells a unique data story
-- [x] Unique insights into the dataset
-- [x] Code and visuals are working, notebook is fully executed and viewable on GitHub
+1. Passenger Demographics
+- **Age Distribution:** Most passengers were young adults, with a concentration in their 20s and 30s.
+- **Gender Imbalance:** There were nearly twice as many male passengers as female passengers.
+- **Class Structure:** The majority of passengers traveled in third class, reflecting the Titanic’s role as a vessel for immigrants and lower-income travelers.
+2. Survival Insights
+- **Survival Rate:** More than half of the passengers did not survive, highlighting the tragedy’s scale.
+- **Class and Survival:** First-class passengers had a much higher survival rate than those in second or third class, showing the impact of social status.
+- **Gender and Survival:** Women had a significantly higher survival rate than men, reflecting the "women and children first" policy.
+3. Family and Fare
+- **Family Size:** Most passengers traveled alone or with one family member; larger families were less common.
+- **Fare Distribution:** Ticket prices varied widely, with first-class fares much higher than those in lower classes.
+- **Fare by Embarkation:** Passengers embarking from Cherbourg paid higher fares on average, likely due to a higher proportion of first-class travelers.
+4. Embarkation Patterns
+- **Port of Embarkation:** Most passengers boarded at Southampton, but survival rates and class distributions varied by port.
+5. Visual Storytelling
+- **Histograms and Count Plots:** Effectively show the distribution of age, fare, class, and gender.
+- **Boxplots and Heatmaps:** Reveal relationships between fare, class, and embarkation port.
+- **Stacked Bar Plots:** Clearly illustrate survival differences by class and gender.
+- **Pairplots:** Help identify correlations and separations between groups.
+6. Data Quality
+- **Missing Data:** Notable missing values in age and deck columns, which may affect some analyses.
+- **Feature Engineering**: Creating new features like family size and fare per person adds depth to the analysis.
 
 ---
